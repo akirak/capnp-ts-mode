@@ -4,7 +4,6 @@
 
 ;; Author: Akira Komamura <akira.komamura@gmail.com>
 ;; Version: 0.1
-;; Package-Requires: ((emacs "26.1"))
 ;; Keywords: languages, capnproto
 ;; Package-Requires: ((emacs "29.1"))
 ;; URL: https://github.com/akirak/capnp-ts-mode
