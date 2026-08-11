@@ -1,0 +1,5 @@
+# A Cap'n Proto Mode for Emacs
+
+This is an Emacs major mode for [Cap'n
+Proto](https://capnproto.org/language.html), based on [the tree-sitter
+grammar](https://github.com/tree-sitter-grammars/tree-sitter-capnp).
